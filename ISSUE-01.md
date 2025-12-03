@@ -10,7 +10,7 @@ This is why:
 * WordPress version sometimes doesn’t show
 * You see 404 / Nginx errors
 
-Let’s fix it step-by-step (this works almost every time) 👇
+Let’s fix it step-by-step (this works almost every time) 
 
 ---
 
@@ -26,12 +26,12 @@ Let’s fix it step-by-step (this works almost every time) 👇
 4. Open **LocalWP again**
 5. Start your site
 
-👉 Try now.
+ Try now.
 If still error → go to Fix 2
 
 ---
 
-## ✅ Fix 2 – Port conflict (another MySQL using same port)
+## Fix 2 – Port conflict (another MySQL using same port)
 
 You most likely have **XAMPP / WAMP / another MySQL** running.
 
@@ -56,11 +56,11 @@ You most likely have **XAMPP / WAMP / another MySQL** running.
 
 Now go back to **LocalWP** and start your site.
 
-✅ 80% of time this fixes it.
+ 80% of time this fixes it.
 
 ---
 
-## ✅ Fix 3 – Change MySQL port in Local (Hard fix but powerful)
+##  Fix 3 – Change MySQL port in Local (Hard fix but powerful)
 
 If something is still blocking port **10056**:
 
@@ -79,7 +79,7 @@ If something is still blocking port **10056**:
 
 ---
 
-## ✅ Fix 4 – Repair Database folder
+##  Fix 4 – Repair Database folder
 
 Sometimes the database file is corrupted.
 
@@ -105,11 +105,11 @@ Now restart your site on Local.
 
 Local will auto-create a fresh new database.
 
-✅ Your site WILL start (but old data will be gone unless restored).
+ Your site WILL start (but old data will be gone unless restored).
 
 ---
 
-## ✅ Fix 5 – Nuclear solution (100% works)
+##  Fix 5 – Nuclear solution (100% works)
 
 If you just want it to WORK now:
 
@@ -125,15 +125,13 @@ If you just want it to WORK now:
 
 4. Copy your old `wp-content` into the new site
 
-✅ Done. Fresh database + your content safe.
+ Done. Fresh database + your content safe.
 
 ---
 
-## ✅ Your screenshot also shows
-
 WordPress version: **6.9**
 
-So your WordPress is actually installed correctly ✅
+WordPress is actually installed correctly 
 The only problem is **MySQL not running**.
 
 ---
