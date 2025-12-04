@@ -1,6 +1,5 @@
 If LocalWP is **not showing the WordPress version**, that usually means **Local can’t detect a valid WordPress install** in your site folder. This is also a big reason you’re getting the **404 nginx error**.
 
-Let’s fix it methodically 👇
 
 ---
 
