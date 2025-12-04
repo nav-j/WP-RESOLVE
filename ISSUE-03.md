@@ -3,7 +3,7 @@ If LocalWP is **not showing the WordPress version**, that usually means **Local 
 
 ---
 
-## 🔍 First: What does it show instead of WordPress Version?
+## First: What does it show instead of WordPress Version?
 
 On LocalWP → select your site → **Overview**
 
@@ -17,11 +17,11 @@ If instead you see:
 * “Not detected”
 * Or nothing at all
 
-👉 That confirms WordPress is missing or broken.
+ That confirms WordPress is missing or broken.
 
 ---
 
-## ✅ Step 1 — Check if WordPress files exist
+##  Step 1 — Check if WordPress files exist
 
 Go to this folder on your computer:
 
@@ -56,7 +56,7 @@ Then your version will appear correctly.
 
 ---
 
-## ✅ Step 2 — If files DO exist, repair WordPress
+##  Step 2 — If files DO exist, repair WordPress
 
 If the WordPress files exist but version is still not showing:
 
@@ -84,7 +84,7 @@ Then restart site.
 
 ---
 
-## ✅ Step 3 — Fix with Apache (important)
+##  Step 3 — Fix with Apache (important)
 
 In your site → Overview:
 
@@ -98,7 +98,7 @@ Now check if WordPress version appears.
 
 ---
 
-## ✅ Step 4 — Check Site Domain
+##  Step 4 — Check Site Domain
 
 In Overview → Site Domain must end with:
 
@@ -118,7 +118,7 @@ If wrong:
 
 ---
 
-## ✅ Step 5 — Quick 100% working solution (if above fails)
+##  Step 5 — Quick 100% working solution (if above fails)
 
 This always fixes version + 404 issues:
 
@@ -131,9 +131,3 @@ This always fixes version + 404 issues:
 ✅ Site will open correctly
 
 ---
-
-## 🚨 Please send me ONE screenshot
-
-Send a screenshot of your LocalWP **Overview tab** for your site.
-
-I’ll tell you exactly why WordPress version is missing in your specific case and fix it for you.
